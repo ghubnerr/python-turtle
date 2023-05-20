@@ -1,5 +1,10 @@
 # Python Turtle Daniel Hirst Art
-By running, `main.py`, the code uses the `colorgram` external library to pick the most abundant colors in an image. My personal favourite -- Van Gogh's "A Stary Night" -- was used in this code as sample for the module. The turtle will create a Daniel Hirst-inspired "dot-art" style using the colors seleted from the `colorgram` package. Feel free to adjust the dot-sizes, gaps, number of rows as well as number of dots per row as you call for the `draw()` function inside `main.py`
+By running, `main.py`, the code uses the `colorgram` external library to pick the most abundant colors in an image. My personal favourite -- Van Gogh's "A Stary Night" -- was used in this code as sample for the module. The turtle will create a Daniel Hirst-inspired "dot-art" style using the colors seleted from the `colorgram` package. Feel free to adjust the dot-sizes, gaps, number of rows as well as number of dots per row as you call for the `draw()` function inside `main.py`.
+You can also download your own image files, pass its address in your shell as the argument of the `colorgram` color-picking function to run this code on your own images as well.
+
+![image](https://github.com/ghubnerr/python-turtle/assets/91924667/531665f4-3ec1-4894-8160-f08db61a4aa3)
+
+P.S.: Kevin, the turtle, is hidden in this snippet of the code as it makes the code run more smoothly
 
 This repository also contains Python code for creating spirographs and printing the Google logo using the Turtle graphics library, as well as some basic instructions and documentation links on how to use this library :)
 
@@ -24,6 +29,10 @@ Although these instructions are already contained within the `tutorial.py` file,
 - [Spirograph Tutorial](https://en.wikipedia.org/wiki/Spirograph) - Wikipedia article explaining the principles and history of spirographs.
 
 Feel free to explore this code and modify it.
+
+## Credit
+
+The idea for this Project was inspired by Dr. Angela Yu, from the App Brewery on here Python 100 Days of Code Bootcamp for Udemy.
 
 ## License
 
