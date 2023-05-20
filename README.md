@@ -13,7 +13,9 @@ This repository also contains Python code for creating spirographs and printing 
 
 The spirograph module allows you to create intricate geometric patterns known as spirographs. Spirographs are created by rolling a small circle inside or outside a larger fixed circle, while a pen traces the resulting curves.
 
-To run the spirograph program, execute the `spirograph.py` script. You can customize the spirograph patterns by modifying the parameters such as radii, pen colors, and speeds within the code.
+Here, Kevin the Turtle is given the number of circles to be made in the spirograph, and loops through that amount 'n' while making a 360/n degree turn for every circle that it draws, while at the same time choosing a random color from an RGB generator to make the spirograph look prettier. 
+
+To run the spirograph program, execute the `spirograph.py` script. You can customize the spirograph patterns by modifying the parameters such as radii, and speeds within the code.
 
 ## Google Logo -- Additional Segment
 
