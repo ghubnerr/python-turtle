@@ -1,5 +1,6 @@
 # Python Turtle Daniel Hirst Art
 By running, `main.py`, the code uses the `colorgram` external library to pick the most abundant colors in an image. My personal favourite -- Van Gogh's "A Stary Night" -- was used in this code as sample for the module. The turtle will create a Daniel Hirst-inspired "dot-art" style using the colors seleted from the `colorgram` package. Feel free to adjust the dot-sizes, gaps, number of rows as well as number of dots per row as you call for the `draw()` function inside `main.py`.
+
 You can also download your own image files, pass its address in your shell as the argument of the `colorgram` color-picking function to run this code on your own images as well.
 
 ![image](https://github.com/ghubnerr/python-turtle/assets/91924667/531665f4-3ec1-4894-8160-f08db61a4aa3)
