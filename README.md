@@ -1,14 +1,15 @@
-# Python Turtle Spirographs and Google Logo
+# Python Turtle Daniel Hirst Art
+By running, `main.py`, the code uses the `colorgram` external library to pick the most abundant colors in an image. My personal favourite -- Van Gogh's "A Stary Night" -- was used in this code as sample for the module. The turtle will create a Daniel Hirst-inspired "dot-art" style using the colors seleted from the `colorgram` package. Feel free to adjust the dot-sizes, gaps, number of rows as well as number of dots per row as you call for the `draw()` function inside `main.py`
 
-This repository contains Python code for creating spirographs and printing the Google logo using the Turtle graphics library, as well as some basic instructions and documentation links on how to use this library :)
+This repository also contains Python code for creating spirographs and printing the Google logo using the Turtle graphics library, as well as some basic instructions and documentation links on how to use this library :)
 
-## Spirographs
+## Spirographs -- Additional Segment
 
 The spirograph module allows you to create intricate geometric patterns known as spirographs. Spirographs are created by rolling a small circle inside or outside a larger fixed circle, while a pen traces the resulting curves.
 
 To run the spirograph program, execute the `spirograph.py` script. You can customize the spirograph patterns by modifying the parameters such as radii, pen colors, and speeds within the code.
 
-## Google Logo
+## Google Logo -- Additional Segment
 
 The `google-logo.py` script demonstrates how to draw the Google logo using Python Turtle. It recreates the iconic multi-colored logo of the search engine giant by using the appropriate colors and positioning.
 
