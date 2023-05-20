@@ -19,7 +19,7 @@ To run the spirograph program, execute the `spirograph.py` script. You can custo
 
 ## Google Logo -- Additional Segment
 
-The `google-logo.py` script demonstrates how to draw the Google logo using Python Turtle. It recreates the iconic multi-colored logo of the search engine giant by using the appropriate colors and positioning.
+The `google-logo.py` script demonstrates how to draw the Google logo using Python Turtle. It recreates the iconic multi-colored logo of the search engine giant by using the appropriate colors and positioning. Can't stress enough how @Google should have just made their logo a perfect circle. The code also tries to make up for that to my best capacities. 
 
 To print the Google logo, run the `google-logo.py` script. Make sure the `turtle` module is installed on your Python environment.
 
@@ -29,7 +29,7 @@ Although these instructions are already contained within the `tutorial.py` file,
 
 - [Python Turtle Documentation](https://docs.python.org/3/library/turtle.html) - Official Python documentation for the Turtle graphics library.
 - [Turtle Graphics Tutorial](https://realpython.com/beginners-guide-python-turtle/) - A beginner-friendly tutorial on Turtle graphics from Real Python.
-- [Spirograph Tutorial](https://en.wikipedia.org/wiki/Spirograph) - Wikipedia article explaining the principles and history of spirographs.
+- [Spirographs!](https://en.wikipedia.org/wiki/Spirograph) - Wikipedia article explaining the principles and history of spirographs.
 
 Feel free to explore this code and modify it.
 
