@@ -1,6 +1,6 @@
 # Python Turtle Spirographs and Google Logo
 
-This repository contains Python code for creating spirographs and printing the Google logo using the Turtle graphics library.
+This repository contains Python code for creating spirographs and printing the Google logo using the Turtle graphics library, as well as some basic instructions and documentation links on how to use this library :)
 
 ## Spirographs
 
